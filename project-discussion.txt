@@ -1,0 +1,32 @@
+ADMIN PANEL
+-crud for product
+-customer details 
+-admin profile
+-customer support and enquiry
+
+
+
+
+
+
+
+
+
+
+
+
+USER PANEL
+-registration , email verification ,authentication , login
+
+UI DESGINE
+-simple navbar
+-bannner
+-center menu bar 
+-about
+-infinite menu for all the items 
+-card for the product description
+-product review
+-footer
+-each product load from server 
+
+
